@@ -34,5 +34,5 @@ npm run scss
 
 ## Product Card  Scss-BEM-Grid-Flexbox
 
-![]([https://github.com/memof90/Signal-Clone-ReactNative/blob/master/assets/gitImages/Simulator%20Screen%20Recording%20-%20iPhone%2012%20Pro%20-%202021-08-19%20at%2016.04.02.gif?raw=true](https://github.com/memof90/screenProjects/blob/master/UX/effecto.gif?raw=true])
+<img src="https://raw.githubusercontent.com/memof90/screenProjects/master/UX/effecto.gif"/>
 
